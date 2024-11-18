@@ -4,6 +4,9 @@ This project was focused around building classes, abstract classes, and inherita
 
 This was all done in October, and along with every project in Comp Sci 2
 there must be a unittest file along with it. As well as a report to what I learned in this project.
+This project was also completed with the help of some other students in the class, though it was all coded by me, 
+many ideas where shared amongst a group. If a problem occurred on one person's end, and another had the solution we
+could communicate ideas without just duplicating the code (since our code was different in many ways anyway).
 
 This file has the game file that contains the running functions of the game. This file should
 be run to start the game, the game will be displayed in the Console. The file
